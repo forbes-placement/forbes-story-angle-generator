@@ -1,0 +1,21 @@
+id,brand,story_type,story_angle_quality_score,editorial_fit_score,brand_authority_score,media_attention_score,narrative_strength_score,seo_visibility_score,overall_story_score,priority_action,forbes_score,business_insider_score,entrepreneur_score,fast_company_score,industry,notes
+1,TechVentures Inc,executive-profile,90,88,92,85,90,82,88,SEO & Visibility,91,90,89,88,Technology,Strong CEO profile angle
+2,GreenEnergy Corp,innovation-story,88,85,88,84,87,80,85,SEO & Visibility,87,87,86,85,Energy,Clean energy innovation narrative
+3,FinTech Startup,founder-journey,85,82,85,88,84,78,84,SEO & Visibility,84,84,83,82,FinTech,Disruptive founder story
+4,Healthcare AI,industry-insight,92,90,94,88,92,85,90,SEO & Visibility,93,92,91,90,Healthcare,AI in medicine thought leadership
+5,EduTech Platform,growth-story,82,80,84,80,82,76,81,SEO & Visibility,82,82,81,81,Education,Series B growth milestone
+6,Retail Brand,brand-authority,78,76,80,76,78,72,77,SEO & Visibility,78,78,77,77,Retail,Omnichannel authority story
+7,Biotech Research,innovation-story,90,88,92,86,90,83,88,SEO & Visibility,91,90,89,88,Biotech,Breakthrough research narrative
+8,SaaS Company,market-disruption,85,83,87,84,85,80,84,SEO & Visibility,85,85,84,84,Software,Enterprise disruption angle
+9,Real Estate Tech,product-launch,80,78,82,78,80,74,79,SEO & Visibility,80,80,79,79,PropTech,Smart property platform launch
+10,Cybersecurity Firm,industry-insight,88,86,90,85,88,82,87,SEO & Visibility,89,88,87,86,Security,Threat intelligence insights
+11,Fashion Brand,social-impact,76,74,78,76,76,70,75,SEO & Visibility,76,76,75,75,Fashion,Sustainable fashion leadership
+12,Logistics Co,growth-story,82,80,84,80,82,76,81,SEO & Visibility,82,82,81,81,Logistics,Supply chain innovation story
+13,Food Tech,founder-journey,84,82,86,84,84,78,83,SEO & Visibility,84,84,83,83,FoodTech,Plant-based disruption founder
+14,Legal Tech,market-disruption,86,84,88,82,86,80,84,SEO & Visibility,86,86,85,85,LegalTech,AI contract automation story
+15,Wealth Management,brand-authority,90,88,92,86,90,84,88,SEO & Visibility,91,90,89,89,Finance,Premium wealth brand authority
+16,Gaming Studio,innovation-story,82,80,84,82,82,76,81,SEO & Visibility,82,82,81,81,Gaming,Immersive tech innovation
+17,Nonprofit Leader,social-impact,78,76,80,80,78,72,77,SEO & Visibility,78,78,77,77,Nonprofit,Community impact leadership
+18,AutoTech Startup,executive-profile,86,84,88,84,86,80,85,SEO & Visibility,86,86,85,85,Automotive,EV tech CEO profile
+19,HR Platform,product-launch,80,78,82,78,80,74,79,SEO & Visibility,80,80,79,79,HR Tech,AI recruitment platform launch
+20,SpaceTech Venture,awards-recognition,92,90,94,90,92,86,91,SEO & Visibility,93,92,91,90,Space,Industry award recognition story
