@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@forbes-placement/story-angle-generator)](https://npmjs.com/package/@forbes-placement/story-angle-generator)
 [![PyPI](https://img.shields.io/pypi/v/forbes-story-angle-generator)](https://pypi.org/project/forbes-story-angle-generator)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21687092.svg)](https://doi.org/10.5281/zenodo.21687092)
 
 Forbes Story Angle Generator is an AI-powered platform that helps businesses, founders, executives, and marketing teams develop compelling editorial story ideas for premium business publications. Built by [ForbesPlacement.com](https://forbesplacement.com).
 
@@ -136,7 +136,7 @@ Forbes Story Angle · Editorial Placement · PR Strategy · Thought Leadership �
 | NPM | https://npmjs.com/package/@forbes-placement/story-angle-generator |
 | PyPI | https://pypi.org/project/forbes-story-angle-generator |
 | Hugging Face | https://huggingface.co/datasets/forbes-placement/story-angle-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21687092  |
 | Docs | https://forbes-story-angle-generator.readthedocs.io |
 | SlideShare | https://www.slideshare.net/slideshow/premium-forbes-editorial-placement-service-for-brand-authority/288884219 |
 | Pinterest | https://in.pinterest.com/ForbesPlacement/ |
