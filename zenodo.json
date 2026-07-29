@@ -1,0 +1,66 @@
+{
+  "title": "Forbes Story Angle Generator",
+  "description": "Forbes Story Angle Generator is an AI-powered platform that helps businesses, founders, executives, and marketing teams develop compelling editorial story ideas for premium business publications. Built by ForbesPlacement.com.",
+  "creators": [
+    {
+      "name": "ForbesPlacement.com"
+    }
+  ],
+  "keywords": [
+    "Forbes story angle",
+    "editorial placement",
+    "PR strategy",
+    "thought leadership",
+    "brand authority",
+    "media visibility",
+    "Forbes feature",
+    "executive profile",
+    "ForbesPlacement"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/forbes-placement/forbes-story-angle-generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://forbesplacement.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@forbes-placement/story-angle-generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/forbes-story-angle-generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/forbes-placement/story-angle-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/premium-forbes-editorial-placement-service-for-brand-authority/288884219",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://in.pinterest.com/ForbesPlacement/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Forbes-Placement",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

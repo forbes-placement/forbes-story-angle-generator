@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Forbes Story Angle Generator",
+  "description": "An AI-powered platform that helps businesses, founders, executives, and marketing teams develop compelling editorial story ideas for premium business publications.",
+  "url": "https://forbesplacement.com",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "ForbesPlacement.com",
+    "url": "https://forbesplacement.com",
+    "sameAs": [
+      "https://forbesplacement.com",
+      "https://github.com/forbes-placement",
+      "https://npmjs.com/package/@forbes-placement/story-angle-generator",
+      "https://pypi.org/project/forbes-story-angle-generator",
+      "https://huggingface.co/datasets/forbes-placement/story-angle-benchmarks",
+      "https://forbes-placement.github.io/forbes-story-angle-generator/",
+      "https://www.slideshare.net/slideshow/premium-forbes-editorial-placement-service-for-brand-authority/288884219",
+      "https://in.pinterest.com/ForbesPlacement/",
+      "https://www.quora.com/profile/Forbes-Placement"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/forbes-placement/forbes-story-angle-generator",
+  "keywords": [
+    "Forbes story angle",
+    "editorial placement",
+    "PR strategy",
+    "thought leadership",
+    "brand authority",
+    "media visibility",
+    "Forbes feature",
+    "executive profile",
+    "ForbesPlacement"
+  ]
+}

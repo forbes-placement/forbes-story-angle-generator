@@ -1,0 +1,21 @@
+site_name: Forbes Story Angle Generator
+site_url: https://forbes-story-angle-generator.readthedocs.io
+site_description: AI-powered platform helping businesses and executives develop compelling editorial story ideas for premium business publications including Forbes.
+site_author: ForbesPlacement.com
+
+repo_name: forbes-placement/forbes-story-angle-generator
+repo_url: https://github.com/forbes-placement/forbes-story-angle-generator
+
+theme:
+  name: material
+  palette:
+    primary: blue-grey
+    accent: gold
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

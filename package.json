@@ -1,0 +1,37 @@
+{
+  "name": "@forbes-placement/story-angle-generator",
+  "version": "1.0.0",
+  "description": "Forbes Story Angle Generator is an AI-powered platform that helps businesses, founders, executives, and marketing teams develop compelling editorial story ideas for premium business publications.",
+  "main": "index.js",
+  "bin": {
+    "forbes-story-angle": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "forbes-story-angle",
+    "editorial-placement",
+    "pr-strategy",
+    "thought-leadership",
+    "brand-authority",
+    "media-visibility",
+    "forbes-feature",
+    "executive-profile",
+    "business-publication",
+    "forbesplacement",
+    "story-angle",
+    "editorial-planning"
+  ],
+  "author": "ForbesPlacement.com",
+  "license": "MIT",
+  "homepage": "https://forbesplacement.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forbes-placement/forbes-story-angle-generator"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forbes-story-angle-generator"
+version = "1.0.0"
+authors = [
+  { name = "ForbesPlacement.com", email = "info@forbesplacement.com" },
+]
+description = "Forbes Story Angle Generator is an AI-powered platform that helps businesses, founders, executives, and marketing teams develop compelling editorial story ideas for premium business publications."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Office/Business",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+keywords = [
+    "forbes-story-angle",
+    "editorial-placement",
+    "pr-strategy",
+    "thought-leadership",
+    "brand-authority",
+    "media-visibility",
+    "forbesplacement",
+]
+
+[project.urls]
+Homepage = "https://forbesplacement.com"
+GitHub = "https://github.com/forbes-placement/forbes-story-angle-generator"
+Documentation = "https://forbes-story-angle-generator.readthedocs.io"
+PyPI = "https://pypi.org/project/forbes-story-angle-generator"
+
+[project.scripts]
+forbes-story-angle = "angle_generator:main"
