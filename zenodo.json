@@ -20,12 +20,17 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.21687092",
   "related_identifiers": [
     {
       "identifier": "https://github.com/forbes-placement/forbes-story-angle-generator",
       "relation": "isSupplementTo",
       "scheme": "url"
+    },
+    {
+  "identifier": "https://zenodo.org/records/21687092",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
     },
     {
       "identifier": "https://forbesplacement.com",
